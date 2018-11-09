@@ -10,8 +10,8 @@ import javax.swing.JMenuItem;
 
 public class Controller implements ActionListener{
 
-	View view;
-	Model model;
+	private View view;
+	private Model model;
 	
 	/**
 	 * Constructor for controller
